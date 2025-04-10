@@ -36,6 +36,17 @@
   </style>
 </head>
 <body>
+
+<script>
+  // Simple password check
+  const correctPassword = "nofap"; // change this to your secret password
+  const userInput = prompt("Enter the password to access this site:");
+
+  if (userInput !== correctPassword) {
+    document.body.innerHTML = "<h2 style='text-align:center;margin-top:20%;'>Access Denied</h2>";
+  }
+</script>
+  
   <h1>My YouTube Video Library</h1>
 
   <div class="video">
