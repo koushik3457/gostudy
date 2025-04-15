@@ -1,0 +1,35 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Video Selector</title>
+  <link rel="stylesheet" href="subject3.css">
+  <script src="subject3.js" defer></script>
+</head>
+<body>
+
+  <!-- Landing Image -->
+  <div id="landingScreen">
+    <img src="welcome.jpg" alt="Click to Enter" id="enterImage">
+  </div>
+
+  <!-- Main Content (Initially Hidden) -->
+  <div id="mainContent" style="display: none;">
+    <h1>Select Video Category</h1>
+
+    <select id="videoMenu" onchange="showVideos()">
+      <option value="">-- Select Type --</option>
+      <option value="Brestfeeding">Brestfeeding </option>
+      <option value="Cuminmouth">Cum in mouth</option>
+      <option value="type3">Type 3 Videos</option>
+      <option value="type4">Type 4 Videos</option>
+      <option value="type5">Type 5 Videos</option>
+    </select>
+
+    <!-- Video List Section -->
+    <div id="videoList"></div>
+  </div>
+
+</body>
+</html>
