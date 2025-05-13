@@ -1,6 +1,6 @@
 function login() {
   const validId = "admin";
-  const validPassword = "12345";
+  const validPassword = "6969";
 
   const enteredId = document.getElementById("userId").value;
   const enteredPassword = document.getElementById("password").value;
