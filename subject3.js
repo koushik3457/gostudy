@@ -80,7 +80,7 @@ function showVideos() {
           thumbnail: "nofap.png"
         }
       ],
-      american_expreso: [
+      americanexpreso: [
         {
           title: "netflix and chill ",
           url: "https://www.pornhub.com/view_video.php?viewkey=66397adddda90",
