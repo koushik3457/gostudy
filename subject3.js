@@ -68,7 +68,7 @@ function showVideos() {
           thumbnail: "nofap.png"
         }
       ],
-      Cuminmouth: [
+      Cum_in_mouth: [
         {
           title: "Type 2 - Video 1",
           url: "https://www.youtube.com/watch?v=VIDEO_ID3",
@@ -80,17 +80,79 @@ function showVideos() {
           thumbnail: "nofap.png"
         }
       ],
-      type3: [
+      american_expreso: [
         {
-          title: "Type 3 - Video 1",
-          url: "https://www.youtube.com/watch?v=VIDEO_ID5",
+          title: "netflix and chill ",
+          url: "https://www.pornhub.com/view_video.php?viewkey=66397adddda90",
           thumbnail: "nofap.png"
         },
         {
-          title: "Type 3 - Video 1",
-          url: "https://www.youtube.com/watch?v=VIDEO_ID5",
+          title: "nigga 1",
+          url: "https://www.pornhub.com/view_video.php?viewkey=ph6022dc2d42888",
+          thumbnail: "nofap.png"
+        },
+          {
+          title: "nigga 2",
+          url: "https://www.pornhub.com/view_video.php?viewkey=ph5c3c49be52473",
+          thumbnail: "nofap.png"
+        },
+        {
+          title: "stepmom",
+          url: "https://www.pornhub.com/view_video.php?viewkey=649b827a645b5",
+          thumbnail: "nofap.png"
+        },
+        {
+          title: "threesome",
+          url: "https://www.pornhub.com/view_video.php?viewkey=65bb0724878ef",
+          thumbnail: "nofap.png"
+        },
+        {
+          title: "nun",
+          url: "https://www.pornhub.com/view_video.php?viewkey=66f14837ef169",
+          thumbnail: "nofap.png"
+        },
+        {
+          title: "magic threesome",
+          url: "https://www.pornhub.com/view_video.php?viewkey=668e50dce1bc4",
+          thumbnail: "nofap.png"
+        },
+           {
+          title: "threesome 2",
+          url: "https://www.pornhub.com/view_video.php?viewkey=65aa77ab8694a",
+          thumbnail: "nofap.png"
+        },
+        {
+          title: "threesome 3",
+          url: "https://www.pornhub.com/view_video.php?viewkey=ph6399dc8edcc17",
+          thumbnail: "nofap.png"
+        },
+         {
+          title: "foursome",
+          url: "https://www.pornhub.com/view_video.php?viewkey=ph62e7d440dceeb",
+          thumbnail: "nofap.png"
+        },
+       
+        {
+          title: "stepsister",
+          url: "https://www.pornhub.com/view_video.php?viewkey=662fc64403ffd",
+          thumbnail: "nofap.png"
+        },
+        {
+          title: "stepsister 2",
+          url: "https://www.pornhub.com/view_video.php?viewkey=67d3738a4eccf",
+          thumbnail: "nofap.png"
+        },
+        {
+          title: "latina stepmom 2",
+          url: "https://www.pornhub.com/view_video.php?viewkey=6556f49b328ba",
+          thumbnail: "nofap.png"
+        },
+        {
+          title: "lesbian",
+          url: "https://www.pornhub.com/view_video.php?viewkey=67a47b037b7bd",
           thumbnail: "nofap.png"
         }
+       
         
       ],
       type4: [
