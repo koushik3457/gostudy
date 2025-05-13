@@ -44,9 +44,9 @@ function login() {
         <div class="contact-info" id="contactInfo" style="display: none;">
           <h3>Contact Details</h3>
           <ul>
-            <li><strong>Kaushik patil   </strong> – 📞 +91-9876543210</li>
-            <li><strong>Shlok pauniker  </strong> – 📞 +91-8765432109</li>
-            <li><strong>Anah fulzele    </strong> – 📞 +91-9988776655</li>
+            <li><strong> a  </strong> – 📞 +91-9876543210</li>
+            <li><strong> b </strong> – 📞 +91-8765432109</li>
+            <li><strong> c  </strong> – 📞 +91-9988776655</li>
           </ul>
         </div>
 
