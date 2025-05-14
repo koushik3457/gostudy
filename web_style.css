@@ -280,3 +280,18 @@ body {
 .contact-info li {
   margin: 8px 0;
 }
+
+.note-box {
+  position: absolute;
+  top: 180px;     /* Adjust to be just below the image */
+  left: 100px;    /* Same as image's left to align */
+  width: 220px;
+  background-color: #fef3c7;  /* Soft yellow */
+  color: #92400e;             /* Darker brown text */
+  padding: 10px;
+  font-size: 14px;
+  border-radius: 6px;
+  border: 1px solid #fcd34d;
+  font-family: 'Poppins', sans-serif;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
